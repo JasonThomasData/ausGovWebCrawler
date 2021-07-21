@@ -1,0 +1,18 @@
+MUST HAVE:
+	CI/CD pipeline... travis CI?
+	Docker
+	Tests
+	Test runner
+	Hosting env... AWS/Azure etc
+	Git repo
+	Structured logs
+	OOP language
+	Readme
+	Licence
+	Diagrams
+	ADR
+
+UNKNOWN:
+	Webpage? For publicity about the project? Perhaps a stretch goal
+	DB? For saving our own records and not using the WBM API, where possible
+
