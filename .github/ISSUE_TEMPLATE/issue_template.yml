@@ -1,0 +1,21 @@
+name: Issue
+about: A new issue
+title: "[DATE]: [FEATURE NAME]"
+labels: to groom
+body:
+  - type: textarea
+    id: what 
+    attributes:
+      label: What
+  - type: textarea
+    id: why 
+    attributes:
+      label: Why 
+  - type: textarea
+    id: suggested-change 
+    attributes:
+      label: Suggested Change 
+  - type: textarea
+    id: dod
+    attributes:
+      label: Definition of Done 
